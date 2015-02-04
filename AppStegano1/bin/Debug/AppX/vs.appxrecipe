@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>COMPUTER_GENERI</Machine>
+    <WindowsUser>Cyril</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a9f547a9-f460-425a-a1e0-35ae2a8e8e17</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Cyril\Documents\Projets Windows\AppStegano1\AppStegano1\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E22D243614D9F4753A931686E1A595B49A646F574A5C86DEC19E76243B9B8E63</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a9f547a9-f460-425a-a1e0-35ae2a8e8e17_1.0.0.0_neutral__5gp5ddayzekgc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a9f547a9-f460-425a-a1e0-35ae2a8e8e17_5gp5ddayzekgc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a9f547a9-f460-425a-a1e0-35ae2a8e8e17</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Cyril</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Cyril\Documents\Projets Windows\AppStegano1\AppStegano1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-04T09:26:14.440</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Cyril\Documents\Projets Windows\AppStegano1\AppStegano1\bin\Debug\AppStegano1.exe">
+      <PackagePath>AppStegano1.exe</PackagePath>
+      <Modified>2015-02-04T10:06:49.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cyril\Documents\Projets Windows\AppStegano1\AppStegano1\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T19:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cyril\Documents\Projets Windows\AppStegano1\AppStegano1\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T19:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cyril\Documents\Projets Windows\AppStegano1\AppStegano1\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T19:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cyril\Documents\Projets Windows\AppStegano1\AppStegano1\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T19:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cyril\Documents\Projets Windows\AppStegano1\AppStegano1\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-04T09:26:12.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cyril\Documents\Projets Windows\AppStegano1\AppStegano1\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-02-04T10:06:48.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cyril\Documents\Projets Windows\AppStegano1\AppStegano1\bin\Debug\AppStegano1.xr.xml">
+      <PackagePath>AppStegano1.xr.xml</PackagePath>
+      <Modified>2015-02-04T10:06:48.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cyril\Documents\Projets Windows\AppStegano1\AppStegano1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-04T09:26:13.748</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

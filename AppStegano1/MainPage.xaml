@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="AppStegano1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AppStegano1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button Content="Ouvrir" HorizontalAlignment="Left" Margin="296,107,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="10,235,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="169" Width="363" RenderTransformOrigin="0.5,0.5" RequestedTheme="Dark" TabNavigation="Once" AcceptsReturn="True" ScrollViewer.VerticalScrollBarVisibility="Visible"/>
+        <TextBox HorizontalAlignment="Left" Height="26" Margin="10,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="270"/>
+        <TextBlock HorizontalAlignment="Left" Height="13" Margin="10,92,0,0" TextWrapping="Wrap" Text="Fichier Windows Bitmap :" VerticalAlignment="Top" Width="151"/>
+        <TextBox HorizontalAlignment="Left" Margin="528,238,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147"/>
+        <TextBox HorizontalAlignment="Left" Height="21" Margin="528,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,217,0,0" TextWrapping="Wrap" Text="Message caché :" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="528,110,0,0" TextWrapping="Wrap" Text="Taille du fichier en octet :" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="528,220,0,0" TextWrapping="Wrap" Text="Réservé :" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="528,293,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147"/>
+        <TextBlock HorizontalAlignment="Left" Margin="528,275,0,0" TextWrapping="Wrap" Text="Réservé :" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="21" Margin="528,372,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147"/>
+        <TextBlock HorizontalAlignment="Left" Margin="528,354,0,0" TextWrapping="Wrap" Text="Adresse de départ :" VerticalAlignment="Top"/>
+        <Image HorizontalAlignment="Left" Height="545" Margin="812,10,0,0" VerticalAlignment="Top" Width="544" RequestedTheme="Light" NineGrid="0"/>
+        <Button Content="Sauver" HorizontalAlignment="Left" Margin="282,406,0,0" VerticalAlignment="Top" Width="90"/>
+
+    </Grid>
+</Page>
